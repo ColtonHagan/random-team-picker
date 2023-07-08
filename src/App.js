@@ -2,9 +2,9 @@
 //TODO: Header/footer
 
 import { Route, Routes } from 'react-router-dom';
-import Home from './views/Home';
+import Home from './Views/Home';
 import Layout from './Layout';
-import Spinner from './views/Spinner';
+import Spinner from './Views/Spinner';
 import { useState, useEffect } from "react";
 import teamData from './Assets/TeamInfo/teamData.json';
 
