@@ -1,0 +1,11 @@
+#history-list-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5vh;
+    #item {
+        border-left: .5rem solid white;
+        border-right: .3rem solid white;
+        border-bottom: .3rem solid white;
+    }
+}

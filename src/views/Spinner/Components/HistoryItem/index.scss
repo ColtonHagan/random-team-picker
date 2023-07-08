@@ -1,0 +1,25 @@
+.item-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    font-size: 1rem;
+    border-top: .3rem solid white;
+    width: 25vw;
+
+    img {
+        height: 64px;
+        width: auto;
+    }
+
+}
+@for $i from 0 through 4 {
+    $opacity: (1 - ($i * 0.2));
+    @if $opacity < 1 {
+        $opacity: ($opacity - (.1));
+    }
+    ._#{$i} {
+        opacity: $opacity;
+    }
+  }
