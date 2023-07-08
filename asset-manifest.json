@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-team-picker/static/css/main.65c37f77.css",
+    "main.js": "/random-team-picker/static/js/main.e92a4972.js",
+    "static/js/787.9ea0abf5.chunk.js": "/random-team-picker/static/js/787.9ea0abf5.chunk.js",
+    "index.html": "/random-team-picker/index.html",
+    "main.65c37f77.css.map": "/random-team-picker/static/css/main.65c37f77.css.map",
+    "main.e92a4972.js.map": "/random-team-picker/static/js/main.e92a4972.js.map",
+    "787.9ea0abf5.chunk.js.map": "/random-team-picker/static/js/787.9ea0abf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65c37f77.css",
+    "static/js/main.e92a4972.js"
+  ]
+}
